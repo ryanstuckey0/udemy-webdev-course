@@ -1,0 +1,3 @@
+[submodule "projects/personal-website"]
+	path = projects/personal-website
+	url = https://github.com/ryanstuckey0/personal-website
