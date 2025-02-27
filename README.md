@@ -4,6 +4,6 @@ This is a repo for a front-env dev course I took on Udemy called The Complete 20
 The course can be found at this link: https://www.udemy.com/course/the-complete-web-development-bootcamp.
 
 In the course, I have covered the following topics:
-- topic 1.. TBD
-- topic 2.. TBD
+- HTML
+- CSS- basic formatting, [selectors](/practice-exercises/7.1%20Combining%20Selectors/), [positioning](/practice-exercises/7.2%20CSS%20Positioning/)
 - topic 3.. TBD

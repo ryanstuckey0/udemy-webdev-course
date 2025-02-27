@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine;
+}
+
+/* mobile devices */
+@media (min-width: 319px) and (max-width: 480px) {
+    body {
+        background-color: lightsalmon;
+    }
+}
+
+/* tablets */
+@media (min-width: 481px) and (max-width: 1200px) {
+    body {
+        background-color: powderblue;
+    }
+}
+
+/* laptops */
+@media (min-width: 1201px) and (max-width: 1600px) {
+    body {
+        background-color: limegreen;
+    }
+}
+
+/* desktops */
+@media (min-width: 1601px) {
+    body {
+        background-color: lightsalmon;
+    }
+}

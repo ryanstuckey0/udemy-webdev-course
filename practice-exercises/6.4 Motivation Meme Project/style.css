@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+#main-box {
+    margin: 0% 25%;
+    height: 90%
+}
+
+#picture-frame {
+    border: blue 10px solid;
+    margin: 0% 25%;
+    
+    aspect-ratio: 1;
+    background-image: url("assets/images/lily-01.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
