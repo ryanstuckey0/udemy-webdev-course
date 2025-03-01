@@ -13,10 +13,7 @@ body {
 
 .pricing-plan {
     background-color: whitesmoke;
-    flex-basis: 300px
-}
-
-.pricing-plan {
+    flex-basis: 300px;
     text-align: center;
     border-radius: 6%;
     padding: 10px
