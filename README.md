@@ -5,5 +5,5 @@ The course can be found at this link: https://www.udemy.com/course/the-complete-
 
 In the course, I have covered the following topics:
 - HTML
-- CSS- basic formatting, [selectors](/practice-exercises/7.1%20Combining%20Selectors/), [positioning](/practice-exercises/7.2%20CSS%20Positioning/)
+- CSS- basic formatting, [selectors](/practice-exercises/7.1%20Combining%20Selectors/), [positioning](/practice-exercises/7.2%20CSS%20Positioning/), arranging via [flexbox](/practice-exercises/9.4%20Flexbox%20Pricing%20Table%20Project/)
 - topic 3.. TBD
