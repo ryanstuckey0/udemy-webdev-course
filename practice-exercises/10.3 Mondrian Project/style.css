@@ -1,0 +1,72 @@
+/* 
+Write your CSS here 
+Gap Colour: #000
+White: #F0F1EC
+Red: #E72F24
+Black: #232629
+Blue: #004592
+Yellow: #F9D01E
+
+For dimensions, see dimensions.png image.
+HINT: Remember you can't change the properties of grid lines.
+But grid lines are transparent!
+*/
+
+.container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+/* colors */
+.red {
+    background-color: #E72F24;
+}
+
+.white {
+    background-color: #f0f1ec;
+}
+
+.black {
+    background-color: #232629;
+}
+
+.blue {
+    background-color: #004592;
+}
+
+.yellow {
+    background-color: #F9D01E;
+}
+
+/* main painting */
+.painting {
+    height: 748px;
+    width: 748px;
+    display: grid;
+    background-color: black;
+    gap: 9px;
+    grid-template: 414px 130px 155px 22px / 320px 198px 153px 50px;
+}
+
+.box2 {
+    grid-area: 1/2/2/5
+}
+
+.box3 {
+    grid-area: 2/1/4/2;
+}
+
+.box4 {
+    grid-area: 2/2/4/4
+}
+
+.box5 {
+    border: solid black;
+    border-width: 0 0 10px 0;
+}
+
+.box6 {
+    grid-area: 3/4/5/5
+}

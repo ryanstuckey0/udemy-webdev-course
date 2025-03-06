@@ -9,6 +9,6 @@ In the course, I have covered the following topics:
   - [Selectors](/practice-exercises/7.1%20Combining%20Selectors/)
   - [Positioning](/practice-exercises/7.2%20CSS%20Positioning/), 
   - [Positioning via Flexbox](/practice-exercises/9.4%20Flexbox%20Pricing%20Table%20Project/)
-  - [Positioning via Grid]()
+  - [Positioning via Grid](/practice-exercises/10.3%20Mondrian%20Project/)
   - [Positioning via Bootstrap]()
 - topic 3.. TBD

@@ -1,0 +1,26 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 0px;
+    width: 800px;
+}
+
+/* a couple other ways to define a frid */
+.container {
+    /* rows / columns */
+    grid-template: repeat(8, 1fr) / repeat(8, 1fr)
+}
+
+.container > div {
+    height: 100px;
+    aspect-ratio: 1/1;
+}
+
+.white {
+    background-color: #f0d9b5;
+}
+
+.black {
+    background-color: black;
+}
