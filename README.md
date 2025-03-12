@@ -10,5 +10,5 @@ In the course, I have covered the following topics:
   - [Positioning](/practice-exercises/7.2%20CSS%20Positioning/), 
   - [Positioning via Flexbox](/practice-exercises/9.4%20Flexbox%20Pricing%20Table%20Project/)
   - [Positioning via Grid](/practice-exercises/10.3%20Mondrian%20Project/)
-  - [Positioning via Bootstrap]()
+  - [Positioning via Bootstrap](/practice-exercises/11.0.1%20More%20Bootstrap%20Practice/)
 - topic 3.. TBD
