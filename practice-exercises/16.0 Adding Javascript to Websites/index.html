@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <!-- <body onload="alert('This Javascript will run when the page finishes loading');"> -->
+  <body>
+    <script type="text/javascript">
+      alert("This Javascript will also load once these HTML tags are reached.");
+    </script>
+
+    <!-- finally, we can also specify external Javascript using script tags with the src attribute -->
+    <script src="index.js"></script>
+
+    <!-- We want to add Javascript last so that all other elements have been created -->
+    <!-- Otherwise, the Javascript might be looking for other elemtns that have not yet been created -->
+  </body>
+</html>
